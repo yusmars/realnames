@@ -246,6 +246,8 @@
 0:0:41434920    Be Happy .ru
 0:0:522886654   Vernis .ru
 0:0:85428728    Artem_Padya .ru
+0:1:208741062   BeCeLyE .ru
+0:1:107857569   yusmars .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
