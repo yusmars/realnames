@@ -276,6 +276,8 @@
 0:0:195720235   PegasDoggeAM .ru
 0:1:435791143   InfiniteC0re .ru
 0:1:44383156    Bloodvez .ru
+0:1:208741062   BeCeLyE .ru
+0:1:107857569   yusmars .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
